@@ -1,0 +1,83 @@
+{
+    "id": 10006,
+    "img": "img/6.jpg",
+    "banner": [
+        "img/detail/banner/1.jpg",
+        "img/detail/banner/2.jpg",
+        "img/detail/banner/3.jpg"
+    ],
+    "info": {
+        "price": "1188.00",
+        "title": "张裕红酒珍藏级解百纳干红葡萄酒【整箱6支】橡木桶酿造12个月",
+        "detail": "橡木桶贮藏12个月",
+        "sale": "满99元 ,包邮"
+    },
+    "params": [
+        {
+            "name": "上市时间",
+            "value": "2018-12"
+        },
+        {
+            "name": "产品原地",
+            "value": "美国-圣地亚哥1"
+        },
+        {
+            "name": "产品原地",
+            "value": "美国-圣地亚哥2"
+        }
+    ],
+    "comments": [
+        {
+            "name": "陈**",
+            "avatar": "img/avatar.jpg",
+            "time": 1551924666,
+            "text": "葡萄美酒夜光杯，千杯不醉李太白，真是好酒"
+        },
+        {
+            "name": "陈**",
+            "avatar": "img/avatar.jpg",
+            "time": 1551824666,
+            "text": "葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒"
+        },
+        {
+            "name": "陈**",
+            "avatar": "img/avatar.jpg",
+            "time": 1551824666,
+            "text": "葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒"
+        },
+        {
+            "name": "陈**",
+            "avatar": "img/avatar.jpg",
+            "time": 1551724666,
+            "text": "葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒"
+        },
+        {
+            "name": "陈**",
+            "avatar": "img/avatar.jpg",
+            "time": 1551624666,
+            "text": "葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒,葡萄美酒夜光杯，千杯不醉李太白，真是好酒"
+        }
+    ],
+    "imgs": [
+        "img/detail/1.jpg",
+        "img/detail/2.jpg",
+        "img/detail/3.jpg",
+        "img/detail/4.jpg",
+        "img/detail/5.jpg",
+        "img/detail/6.jpg",
+        "img/detail/7.jpg",
+        "img/detail/8.jpg",
+        "img/detail/9.jpg",
+        "img/detail/10.jpg",
+        "img/detail/11.jpg",
+        "img/detail/12.jpg",
+        "img/detail/13.jpg",
+        "img/detail/14.jpg",
+        "img/detail/15.jpg",
+        "img/detail/16.jpg",
+        "img/detail/17.jpg",
+        "img/detail/18.jpg",
+        "img/detail/19.jpg",
+        "img/detail/20.jpg"
+    ]
+}
